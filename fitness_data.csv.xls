@@ -1,0 +1,21 @@
+Age,Gender,Height,Weight,Activity,Goal,Food,Budget,Workout Plan,Diet Plan
+22,Male,172,68,Medium,Muscle Gain,Veg,Low,Gym,High Protein
+25,Female,160,55,Low,Weight Loss,Veg,Medium,Yoga,Low Carb
+30,Male,178,85,High,Muscle Gain,Non-Veg,High,Strength Training,High Protein
+28,Female,165,62,Medium,Weight Loss,Non-Veg,Medium,Cardio,Low Carb
+35,Male,170,75,Low,Weight Loss,Veg,Low,Walking,Balanced Diet
+40,Female,158,70,Low,Weight Loss,Non-Veg,Low,Yoga,Low Carb
+27,Male,180,90,High,Muscle Gain,Non-Veg,High,Gym,High Protein
+23,Female,162,58,Medium,Stay Fit,Veg,Medium,Zumba,Balanced Diet
+32,Male,175,78,Medium,Stay Fit,Non-Veg,Medium,Cardio,Balanced Diet
+29,Female,168,65,High,Muscle Gain,Non-Veg,High,Strength Training,High Protein
+45,Male,169,72,Low,Stay Fit,Veg,Low,Walking,Balanced Diet
+38,Female,155,60,Medium,Weight Loss,Veg,Medium,Yoga,Low Carb
+26,Male,182,88,High,Muscle Gain,Non-Veg,High,Gym,High Protein
+31,Female,164,63,Medium,Stay Fit,Veg,Medium,Zumba,Balanced Diet
+24,Male,176,70,Medium,Stay Fit,Veg,Low,Cardio,Balanced Diet
+33,Female,159,67,Low,Weight Loss,Non-Veg,Low,Yoga,Low Carb
+37,Male,173,80,Medium,Muscle Gain,Non-Veg,High,Strength Training,High Protein
+21,Female,161,54,Low,Stay Fit,Veg,Low,Walking,Balanced Diet
+34,Male,179,82,High,Muscle Gain,Non-Veg,High,Gym,High Protein
+29,Female,166,61,Medium,Weight Loss,Veg,Medium,Cardio,Low Carb
